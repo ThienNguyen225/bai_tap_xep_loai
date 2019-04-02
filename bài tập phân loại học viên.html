@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nhập điểm và phân loại học viên</title>
+</head>
+<body>
+<script>
+    let point = parseInt(prompt("Nhập điểm vào đây:"));
+    if (point >= 75) {
+        document.write("Bạn học tốt, và bạn xếp loại A");
+    } else if (point >= 60 && point < 75) {
+            document.write("Bạn học khá, và bạn xếp loại B");
+    }else if (point >= 45 && point < 60){
+        document.write("Bạn học trung bình, và bạn xếp loại C");
+    } else if (point >= 35 && point < 45){
+        document.write("Bạn học yếu, và bạn xếp loại D");
+    } else {
+        document.write("Bạn học quá yếu, và bạn xếp loại F");
+    }
+</script>
+</body>
+</html>

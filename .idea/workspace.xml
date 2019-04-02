@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b90fc391-a887-47e1-b25c-01b3d4c1b323" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BT_Validate email/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate email/Validete_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_SoDienThoai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_SoDienThoai/Validate_SoDienThoai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_account/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_account/Validate_account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_ten_cua_lop_hoc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_ten_cua_lop_hoc/Validate_TenCuaLopHoc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GioHang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GioHang/LamGioHang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HIinhChuNhat/HinhChuNhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/HinhTronDonGian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/HinhTronVoiBanKinhNgauNhien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/HinhTronVoiMauNgauNhien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/HinhTronVoiViTriNgauNhien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/TaoNhieuHinhTron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/Ve2HinhTron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_GameDonGian/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_GameDonGian/GameDonGian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_KiemTraMaQuocGiaNuocMy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_KiemTraMaQuocGiaNuocMy/Ham_usZipCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_KiemTraMaQuocGiaNuocMy/KiemTraMaQuocGiaNuocMy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_LopMoPhongHoatDongCuaDenPin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_LopMoPhongHoatDongCuaDenPin/XayDungLopMoPhongSuHoatDongDenPin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_XayDungLopDate/XayDungLopDate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_XayDungLopHinhTron/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_XayDungLopHinhTron/TH_XayDungLopHinhTron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adam_eva/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adam_eva/adam_eva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bài tập phân loại học viên.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../den_pin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../den_pin/lamdenPin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/baitinhdiem trungbinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/chuyendoinhietdo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/chuyendoitiente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/tinhchuvihinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/tinhdientichhinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/thu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/timgiatribattrongmang.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bài tập phân loại học viên.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bài tập phân loại học viên.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bai_tap_diem_va_xep_loai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai_tap_diem_va_xep_loai" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b90fc391-a887-47e1-b25c-01b3d4c1b323" name="Default Changelist" comment="" />
+      <created>1554192508211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554192508211</updated>
+      <workItem from="1554192509818" duration="939000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="939000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="708" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bài tập phân loại học viên.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
